@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Cardzz 👋
 
-<!--
-**cardzz-dev/cardzz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Técnico em Informática  
 
-Here are some ideas to get you started:
+Sou apaixonado por desenvolvimento e programação, sempre buscando evoluir minhas habilidades e criar soluções que resolvam problemas reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou em constante aprendizado, aprimorando meus conhecimentos em desenvolvimento de software e boas práticas de programação.
+
+🚀 Sempre explorando novas ideias  
+🧠 Focado em evolução contínua  
+🤝 Aberto a oportunidades de freelance  
+
+---
+
+📫 Entre em contato para projetos, parcerias ou oportunidades.
