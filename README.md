@@ -14,5 +14,5 @@ Atualmente estou em constante aprendizado, aprimorando meus conhecimentos em des
 ---
 
 📫 Entre em contato para projetos, parcerias ou oportunidades.
-    Gmail: cardzz.dev.contato@gmail.com
+    Email: Cardzz.dev.contato@gmail.com
     
